@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/webfontkit-20221213-141918"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Research-Project"
+	}
+}
